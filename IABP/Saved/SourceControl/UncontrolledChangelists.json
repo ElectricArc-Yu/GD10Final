@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UEProjects/GD10Final/IABP/Content/Core/ST_Building.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/ST_IOWindow.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/4Q/G0UA4BBTVQ0CRDA051TZTF.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Struct/ST_Building.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Struct/ST_IOWindow.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Data/DT_Building.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Struct/ST_I18N.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Data/I18N/DT_I18N_Building.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Data/I18N/DT_I18N_Help.uasset"
+			]
+		}
+	]
+}
