@@ -5,9 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UEProjects/GD10Final/IABP/Content/Core/Building/Struct/ST_Building.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Recipe/Struct/ST_UpdateRecipe.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Recipe/Struct/ST_Recipe.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Recipe/Data/DT_Recipe.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Building/Data/DT_Building.uasset",
 				"D:/UEProjects/GD10Final/IABP/Content/Core/Building/Struct/ST_BuildingCost.uasset",
-				"D:/UEProjects/GD10Final/IABP/Content/Core/Building/Struct/ST_IOWindow.uasset"
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Building/Struct/ST_Building.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Building/Struct/ST_BuildingUpgrade.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Building/Data/DT_BuildingUpgradeCost.uasset",
+				"D:/UEProjects/GD10Final/IABP/Content/Core/Recipe/Struct/ST_RecipeItem.uasset"
 			]
 		}
 	]
