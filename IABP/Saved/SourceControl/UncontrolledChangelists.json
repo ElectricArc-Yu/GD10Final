@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GD10_Final/IABP/Content/Core/Building/Data/DT_Building.uasset",
+				"D:/GD10_Final/IABP/Content/Core/I18N/Data/DT_I18N_Help.uasset",
+				"D:/GD10_Final/IABP/Content/Core/I18N/Data/DT_I18N_Building.uasset",
 				"D:/UEProjects/GD10Final/IABP/Content/Core/Recipe/Struct/ST_UpdateRecipe.uasset",
 				"D:/UEProjects/GD10Final/IABP/Content/Core/Recipe/Struct/ST_Recipe.uasset",
 				"D:/UEProjects/GD10Final/IABP/Content/Core/Recipe/Data/DT_Recipe.uasset",
