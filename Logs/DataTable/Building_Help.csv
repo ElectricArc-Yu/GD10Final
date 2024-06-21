@@ -1,0 +1,50 @@
+﻿RowName,Chinese,English
+Pipeline,用于运输材料,For transporting materials
+L_Pipeline,用于运输材料,For transporting materials
+Cross_Pipeline,用于运输材料,For transporting materials
+T_Pipeline,用于运输材料,For transporting materials
+Double_Sorter,可以同时分拣2种素材,Sort 2 kinds of materials at the same time
+Triple_Sorter,可以同时分拣3种素材,Sort 3 kinds of materials at the same time
+ElectricPole,用于电力传输,For long distance transmission of electricity
+M_ElectricPole,电力传输距离扩大,For long distance transmission of electricity
+Wireless_ElectricPole,电力传输距离最大,For long distance transmission of electricity
+Wind_PowerStation,依靠风力发电,Relying on wind power
+Coal_PowerStation,依靠矿石发电,Relying on minerals
+Land_PowerStation,依靠地热发电,Relying on geothermal power
+Solar_PowerStation,依靠太阳能发电,Relying on solar power
+Nuclar_PowerStation,依靠核能发电,Relying on nuclear power for electricity generation
+Satellite_PowerStation,依靠卫星发电,Relying on satellite power generation
+Tidal_PowerStation,依靠外星引力发电,Relying on extraterrestrial gravity to generate electricity
+Miner_A,采集矿石,For collecting ore
+Miner_A_Big,批量采集矿石,For efficient mining of ore
+OilWell_A,采集液体,For collecting liquid
+OilWell_A_Big,批量采集液体,For efficient mining of liquid
+GasWell_A,采集气体,For collecting gas
+GasWell_A_Big,批量采集气体,For efficient mining of gas
+DockStation,少量拓展入口管道,Small expansion of inport channels
+M_DockStation,中量拓展入口管道,Middle expansion of inport channels
+L_DockStation,大量拓展入口管道,Largel expansion of inport channels
+Exit_DockStation,少量拓展出口管道,Small expansion of export channels
+M_Exit_DockStation,中量拓展出口管道,Middle expansion of export channels
+L_Exit_DockStation,大量拓展出口管道,Largel expansion of export channels
+WareHouse,储存少量材料,Storage of small quantities of materials
+M_WareHouse,储存中等数量材料,Storage of medium quantities of material
+L_WareHouse,储存大量材料,Storing large quantities of material
+OreRefiner,加工矿石材料,Processing Ore Materials
+M_OreRefiner,加工矿石材料,Processing Ore Material
+L_OreRefiner,加工矿石材料,Processing ore materials
+LiquidRefiner,加工液体材料,Processing liquid materials
+M_LiquidRefiner,加工液体材料,Processing liquid materials
+L_LiquidRefiner,加工液体材料,Processing liquid materials
+GasRefiner,加工气体材料,Processing gaseous materials
+M_GasRefiner,加工气体材料,Processing gaseous materials
+L_GasRefiner,加工气体材料,Processing gas materials
+MaterialProcessor,加工高级素材,Processing advanced materials
+M_MaterialProcessor,加工高级素材,Processing advanced materials
+L_MaterialProcessor,加工高级素材,Processing Advanced Materials
+WeaponMaker,制作武器,Weapon making
+M_WeaponMaker,制作武器,Weapon making
+L_WeaponMaker,制作武器,Crafting Weapons
+Deliver,将材料、货物进行交付,Delivering materials and goods
+M_Deliver,将材料、货物进行交付,Delivering materials and goods
+L_Deliver,将材料、货物进行交付,Delivering materials and goods
