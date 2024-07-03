@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Projects/GD10Final/GD10Final/IABP/Content/Core/Building/Blueprint/BP_Building.uasset",
 				"D:/GD10_Final/IABP/Content/Core/Building/Data/DT_Building.uasset",
 				"D:/GD10_Final/IABP/Content/Core/I18N/Data/DT_I18N_Help.uasset",
 				"D:/GD10_Final/IABP/Content/Core/I18N/Data/DT_I18N_Building.uasset",
