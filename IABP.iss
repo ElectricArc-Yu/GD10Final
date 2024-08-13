@@ -29,7 +29,7 @@ AllowNoIcons=yes
 ;PrivilegesRequired=lowest
 PrivilegesRequiredOverridesAllowed=dialog
 OutputDir=F:\CI
-OutputBaseFilename=Illegal Assembly COBF
+OutputBaseFilename=Illegal Assembly
 SetupIconFile=F:\GD10Final\GD10Final\Icon.ico
 Compression=lzma
 SolidCompression=yes
@@ -43,8 +43,7 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 
 [Files]
 Source: "F:\CI\IllegalAssembly Bata Ver. 2.0.0\Windows\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
-Source: "F:\CI\IllegalAssembly Bata Ver. 2.0.0\Windows\Engine\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "F:\CI\IllegalAssembly Bata Ver. 2.0.0\Windows\IABP\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "F:\CI\IllegalAssembly Bata Ver. 2.0.0\Windows\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
