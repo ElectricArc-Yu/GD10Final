@@ -1,0 +1,133 @@
+{
+	"Version": 36,
+	"Id": "B2563F714E3A7371882ACF84C33B7123",
+	"Name": "Illegal Assembly",
+	"Description": "",
+	"BuildConfiguration": 4,
+	"ProjectSpecified": true,
+	"ShareableProjectPath": "F:/GD10Final/GD10Final/IABP/IABP.uproject",
+	"CookConfiguration": 3,
+	"CookIncremental": false,
+	"CookOptions": "",
+	"CookMode": 1,
+	"CookUnversioned": true,
+	"CookedCultures": [
+		"en"
+	],
+	"CookedMaps": [
+		"MainMenu",
+		"EndLevel",
+		"Tutorial1",
+		"Opening"
+	],
+	"CookedPlatforms": [
+		"Windows"
+	],
+	"DeployStreamingServer": false,
+	"DeployWithUnrealPak": true,
+	"DeployedDeviceGroupId": "295BA35B4E6863354969E183208086B9",
+	"DeploymentMode": 0,
+	"HideFileServerWindow": false,
+	"LaunchMode": 2,
+	"PackagingMode": 1,
+	"PackageDir": "F:/CI/IllegalAssembly Bata Ver. 2.0.0/",
+	"BuildMode": 1,
+	"ForceClose": true,
+	"Timeout": 60,
+	"Compressed": true,
+	"EncryptIniFiles": false,
+	"ForDistribution": true,
+	"DeployPlatform": "Windows",
+	"SkipCookingEditorContent": false,
+	"DeployIncremental": false,
+	"GeneratePatch": false,
+	"AddPatchLevel": false,
+	"StageBaseReleasePaks": false,
+	"DLCIncludeEngineContent": false,
+	"CreateReleaseVersion": false,
+	"CreateReleaseVersionName": "IllegalAssembly",
+	"BasedOnReleaseVersionName": "",
+	"ReferenceContainerGlobalFileName": "",
+	"ReferenceContainerCryptoKeysFileName": "",
+	"OriginalReleaseVersionName": "",
+	"CreateDLC": false,
+	"DLCName": "",
+	"GenerateChunks": false,
+	"GenerateHttpChunkData": false,
+	"HttpChunkDataDirectory": "",
+	"HttpChunkDataReleaseName": "",
+	"Archive": false,
+	"ArchiveDirectory": "F:/CI/Archived/",
+	"AdditionalCommandLineParameters": "",
+	"IncludePrerequisites": true,
+	"UseIoStore": false,
+	"MakeBinaryConfig": true,
+	"BuildTargetSpecified": false,
+	"BuildTargetName": "",
+	"DefaultRole":
+	{
+		"AssignedDevice": "",
+		"CommandLine": "",
+		"DeviceId": "",
+		"InitialCulture": "en",
+		"InitialMapName": "",
+		"Name": "DefaultRole",
+		"InstanceType": 2,
+		"VsyncEnabled": false
+	},
+	"scripts": [
+		{
+			"script": "BuildCookRun",
+			"project": "F:/GD10Final/GD10Final/IABP/IABP.uproject",
+			"noP4": true,
+			"nocompile": true,
+			"nocompileeditor": true,
+			"unrealexe": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor-Cmd.exe",
+			"utf8output": true,
+			"clientconfig": [
+				"Shipping"
+			],
+			"serverconfig": [
+				"Shipping"
+			],
+			"platform": [
+				"Win64"
+			],
+			"cmdline":
+			{
+				"": "",
+				"messaging": true
+			},
+			"device": [
+				"Windows@DESKTOP-LET049F"
+			],
+			"addcmdline":
+			{
+				"sessionid": "00F65EA84FC64D7D541EC092839C7458",
+				"sessionowner": "SHVFSAdmin",
+				"sessionname": "Illegal Assembly"
+			},
+			"map": [
+				"MainMenu",
+				"EndLevel",
+				"Tutorial1",
+				"Opening"
+			],
+			"stagingdirectory": "F:/CI/IllegalAssembly Bata Ver. 2.0.0/",
+			"build": true,
+			"cook": true,
+			"unversionedcookedcontent": true,
+			"pak": true,
+			"generatepatch": false,
+			"manifests": false,
+			"iterativecooking": false,
+			"iteratesharedcookedbuild": false,
+			"skipcookingeditorcontent": false,
+			"compressed": true,
+			"EncryptIniFiles": false,
+			"ForDistribution": true,
+			"stage": true,
+			"package": true
+		}
+	]
+}
